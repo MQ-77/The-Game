@@ -1,0 +1,33 @@
+body{
+    background-image:url("../background_images/9.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:center;
+    background-size: cover;
+}
+.container{
+    display: none;
+    background-color: rgba(255, 255, 255, 0.4);
+    vertical-align:middle;
+    margin:0 auto;
+    width:70%;
+    padding:36px;
+    border-radius: 60px;
+    line-height: 50px;
+}
+.container div{
+    text-align: center;
+}
+table{
+    display: inline-block;
+    border:none;
+}
+p{
+    cursor: pointer;
+}
+img{
+    width: 50%;
+    height: auto;
+    padding:20px;
+    cursor:pointer;
+}
